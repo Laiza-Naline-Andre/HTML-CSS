@@ -1,0 +1,21 @@
+body{
+    font-family:'Work Sans', Arial, Helvetica, sans-serif;
+    /*Medidas Absolutas
+    cm, mm, in, px, pt, pc
+
+    Medidas Relativas
+    en, ex, rem, vw, vh, %
+    16px geralmente = 1em
+    */
+
+    font-size: 1em;
+    /*lighter, normal, bold, bolder */
+}
+
+h1{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: bolder;
+    font-size: 3 em;
+    font-style:italic;
+    /*shorthand*/
+}
